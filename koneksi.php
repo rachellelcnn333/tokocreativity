@@ -1,0 +1,1 @@
+<?php $koneksi = new mysqLi("localhost","root","","tokocreativity"); ?>
